@@ -3,6 +3,10 @@
 A simple **Spotify Clone** built using only **HTML** and **CSS**.  
 This project replicates the look and feel of the Spotify web player interface.
 
+## Image
+
+<img src='./assets/image.png' alt='Photo of project'>
+
 ## Features
 
 - Custom navigation bar
@@ -23,6 +27,3 @@ This project replicates the look and feel of the Spotify web player interface.
 
 This project is for educational purposes and does **not** include backend functionality or actual music playback.
 
-## Image
-
-<img src='./assets/image.png' alt='Photo of project'>
